@@ -1,0 +1,9 @@
+{
+  "name": "yassin-pfe-empirical-research",
+  "displayName": "Yassin ESSS PFE Empirical-Research Pipeline",
+  "version": "0.4.0",
+  "description": "Thirteen-step ESSS PFE empirical-research track (Component 2): from a locked literature review and note de cadrage through a pre-registered protocol, a protocol-faithful analysis, and a peer-review-ready, submission-ready empirical manuscript. Speaks as Dr Khaled Yassin; uses Consensus as an enforced deep-research knowledge base; two hard locks with a deliberate fieldwork pause.",
+  "author": { "name": "Dr Khaled Yassin", "email": "kyassin174@gmail.com" },
+  "license": "Proprietary",
+  "keywords": ["ESSS", "PFE", "empirical-research", "protocol", "STROBE", "nursing", "cowork"]
+}
