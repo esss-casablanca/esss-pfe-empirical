@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "yassin-pfe-empirical",
+  "version": "1.0.0",
+  "description": "ESSS PFE research pipelines by Dr Khaled Yassin. Guided, Cowork-only skills that take a student from a locked literature review and note de cadrage to a peer-review-ready, submission-ready empirical manuscript.",
+  "owner": { "name": "Dr Khaled Yassin", "email": "kyassin174@gmail.com" },
+  "plugins": [
+    {
+      "name": "yassin-pfe-empirical-research",
+      "description": "Thirteen-step ESSS PFE empirical-research track (Component 2): protocol, data and analysis, and manuscript, with two hard locks, an enforced Consensus deep-research backbone, and a simulated peer review.",
+      "source": "./plugins/yassin-pfe-empirical-research",
+      "category": "education"
+    }
+  ]
+}
